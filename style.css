@@ -1,0 +1,25 @@
+.hari1 {
+    width: 115px;
+    height: 50px;
+    background-color: lightblue;
+    margin: 3px;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+    padding-top: 25px;
+}
+
+.hari2 {
+    width: 115px;
+    height: 50px;
+    background-color: goldenrod;
+    margin: 3px;
+    text-align: center;
+    float: left;
+    font-size: 18px;
+    padding-top: 25px;
+}
+
+#clr {
+    clear: both;
+}
